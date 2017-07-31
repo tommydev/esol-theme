@@ -1,0 +1,1923 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: becorp 1.0\n"
+"POT-Creation-Date: 2016-04-03 14:51+0530\n"
+"PO-Revision-Date: 2016-04-03 14:51+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8 archive.php:7 author.php:7 category.php:7
+#: core-functions/menu/default_menu_walker.php:23 tag.php:7 title-strip.php:5
+msgid "Home"
+msgstr ""
+
+#: 404.php:8
+msgid "404"
+msgstr ""
+
+#: 404.php:9
+msgid "Page 404"
+msgstr ""
+
+#: 404.php:20 404.php:22
+msgid "4"
+msgstr ""
+
+#: 404.php:21
+msgid "0"
+msgstr ""
+
+#: 404.php:24
+msgid "Ooopps!, the page that you requested doesnt exist"
+msgstr ""
+
+#: 404.php:25
+msgid "Return to the"
+msgstr ""
+
+#: 404.php:25
+msgid "Previous"
+msgstr ""
+
+#: 404.php:25
+msgid "or"
+msgstr ""
+
+#: 404.php:25
+msgid "Homepage"
+msgstr ""
+
+#: aboutus.php:113
+msgid ""
+"Perspiciatis unde omnis iste natus error sit voluptatem accusantium "
+"doloremque laudantium totam rem aperiam"
+msgstr ""
+
+#: archive.php:11
+msgid "Daily Archives: "
+msgstr ""
+
+#: archive.php:13
+msgid "Monthly Archives: "
+msgstr ""
+
+#: archive.php:15
+msgid "Yearly Archives: "
+msgstr ""
+
+#: archive.php:17
+msgid "Blog Archives: "
+msgstr ""
+
+#: archive.php:50 author.php:40 blog-full-width.php:46 blog-full-width.php:76
+#: blog-left-sidebar.php:71 blog-right-sidebar.php:45
+#: blog-right-sidebar.php:76 category.php:40 index-blog.php:37 index.php:47
+#: page.php:26 search.php:39 single.php:24 tag.php:40
+msgid ", "
+msgstr ""
+
+#: archive.php:55 author.php:45 blog-full-width.php:52 blog-full-width.php:81
+#: blog-left-sidebar.php:76 blog-right-sidebar.php:51
+#: blog-right-sidebar.php:81 category.php:45 index.php:53 index.php:80
+#: search.php:44 tag.php:45
+msgid "Read More"
+msgstr ""
+
+#: author.php:8
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: category.php:8
+msgid "Category Archive:"
+msgstr ""
+
+#: comments.php:11
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:33
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:44
+msgid "You must be"
+msgstr ""
+
+#: comments.php:44
+msgid "logged in"
+msgstr ""
+
+#: comments.php:44
+msgid "to post a comment"
+msgstr ""
+
+#: comments.php:50 contact.php:31
+msgid "Name"
+msgstr ""
+
+#: comments.php:51 contact.php:36
+msgid "Email"
+msgstr ""
+
+#: comments.php:61
+msgid "Logged in as "
+msgstr ""
+
+#: comments.php:61
+msgid " Log out?"
+msgstr ""
+
+#: comments.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:65
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:68
+msgid "Leave a Reply"
+msgstr ""
+
+#: contact.php:22
+msgid "Contact Us"
+msgstr ""
+
+#: contact.php:33
+msgid "*Please Enter Your Name"
+msgstr ""
+
+#: contact.php:38
+msgid "*Please Enter valid e-mail"
+msgstr ""
+
+#: contact.php:41
+msgid "Website"
+msgstr ""
+
+#: contact.php:43
+msgid "Please Enter Website"
+msgstr ""
+
+#: contact.php:48
+msgid "Add Your Comment"
+msgstr ""
+
+#: contact.php:50
+msgid "Please Enter your contact message"
+msgstr ""
+
+#: contact.php:55
+msgid "Send Message"
+msgstr ""
+
+#: contact.php:61
+msgid "Thank  you!"
+msgstr ""
+
+#: contact.php:61
+msgid "You successfully sent contact information..."
+msgstr ""
+
+#: core-functions/comment-section/comment-function.php:12
+msgid "Reply"
+msgstr ""
+
+#: core-functions/comment-section/comment-function.php:22
+msgid "at"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:9
+#: core-functions/cpt/custom-post-type.php:11
+msgid "Add New Slide"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:10
+msgid "Add New Slider"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:12
+#: core-functions/cpt/custom-post-type.php:41
+#: core-functions/cpt/custom-post-type.php:70
+#: core-functions/cpt/custom-post-type.php:99
+#: core-functions/cpt/custom-post-type.php:128
+#: core-functions/cpt/custom-post-type.php:157
+msgid "New Link"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:13
+msgid "All Featured Sliders"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:14
+#: core-functions/cpt/custom-post-type.php:43
+#: core-functions/cpt/custom-post-type.php:72
+#: core-functions/cpt/custom-post-type.php:101
+#: core-functions/cpt/custom-post-type.php:130
+#: core-functions/cpt/custom-post-type.php:159
+msgid "View Link"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:15
+#: core-functions/cpt/custom-post-type.php:44
+#: core-functions/cpt/custom-post-type.php:73
+#: core-functions/cpt/custom-post-type.php:102
+#: core-functions/cpt/custom-post-type.php:131
+#: core-functions/cpt/custom-post-type.php:160
+msgid "Search Links"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:16
+#: core-functions/cpt/custom-post-type.php:45
+#: core-functions/cpt/custom-post-type.php:74
+#: core-functions/cpt/custom-post-type.php:103
+#: core-functions/cpt/custom-post-type.php:132
+#: core-functions/cpt/custom-post-type.php:161
+msgid "No Links found"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:17
+#: core-functions/cpt/custom-post-type.php:46
+#: core-functions/cpt/custom-post-type.php:75
+#: core-functions/cpt/custom-post-type.php:104
+#: core-functions/cpt/custom-post-type.php:133
+#: core-functions/cpt/custom-post-type.php:162
+msgid "No Links found in Trash"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:38
+#: core-functions/cpt/custom-post-type.php:40
+msgid "Add New service"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:39
+msgid "Add New Service"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:42
+msgid "All Services"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:67
+#: core-functions/cpt/custom-post-type.php:69
+msgid "Add New team"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:68
+msgid "Add New Team"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:71
+msgid "All Team"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:96
+#: core-functions/cpt/custom-post-type.php:98
+msgid "Add New portfolio"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:97
+msgid "Add New Portfolio"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:100
+msgid "All Portfolio"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:125
+#: core-functions/cpt/custom-post-type.php:126
+#: core-functions/cpt/custom-post-type.php:127
+msgid "Add New Testimonial"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:129
+msgid "All Testimonial"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:154
+#: core-functions/cpt/custom-post-type.php:155
+#: core-functions/cpt/custom-post-type.php:156
+msgid "Add New Client"
+msgstr ""
+
+#: core-functions/cpt/custom-post-type.php:158
+msgid "All Client"
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:18
+msgid "Image Description"
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:32
+msgid "Service Icon (Using Font Awesome icons name) like: fa-rub ."
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:32
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:187
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:197
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:207
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:230
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:240
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:250
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:189
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:209
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:228
+msgid "Get your fontawesome icons."
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:34
+msgid "Enter the service icon link"
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:36
+#: core-functions/meta-box/post-meta.php:63
+#: core-functions/meta-box/post-meta.php:66
+#: core-functions/meta-box/post-meta.php:69
+#: core-functions/meta-box/post-meta.php:72
+#: core-functions/meta-box/post-meta.php:83
+#: core-functions/meta-box/post-meta.php:94
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:37
+msgid "Service Descritpion"
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:57
+msgid "Enter the team occupation/designation"
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:59
+msgid "Enter the Team Description"
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:61
+msgid "Twitter Url"
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:64
+msgid "Facebook Url"
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:67
+msgid "Google+ Url"
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:70
+msgid "Linkden Url"
+msgstr ""
+
+#: core-functions/meta-box/post-meta.php:81
+#: core-functions/meta-box/post-meta.php:92
+msgid "Enter the portfolio project link ."
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:5
+msgid "Becorp Option"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:5
+msgid "Theme Option"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:14
+msgid "General Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:17
+msgid "Header Social Media Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:20
+msgid "Slider Settings"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:23
+msgid "Home Collout/Introduction Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:26
+msgid "Home Services Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:30
+msgid "Home Project portfolio Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:34
+msgid "Home Testimonial Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:38
+msgid "Home Latest Blog Post Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:42
+msgid "Home Client Strip Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:45
+msgid "Theme Footer Customization Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:49
+msgid "Aboutus Page Template Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:52
+msgid "Service Page Template Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:55
+msgid "Contact Page Template Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-panel.php:58
+msgid "Home Layout Manager Setting"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:3
+msgid "becorp"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:3
+msgid "Theme Options"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:8
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:8
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:8
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:8
+#: core-functions/option-panel/option-pages/home_collout_setting.php:8
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:8
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:8
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:8
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:8
+#: core-functions/option-panel/option-pages/home_services_settings.php:8
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:8
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:8
+#: core-functions/option-panel/option-pages/theme_footer_customization.php:8
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:8
+msgid "Sorry, your nonce is not verify."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:45
+msgid "About-us Page Template Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:50
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:99
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:54
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:47
+#: core-functions/option-panel/option-pages/home_collout_setting.php:50
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:50
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:46
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:69
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:47
+#: core-functions/option-panel/option-pages/home_services_settings.php:47
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:50
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:69
+#: core-functions/option-panel/option-pages/theme_footer_customization.php:34
+#: core-functions/option-panel/option-pages/theme_home_layout_manager.php:36
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:56
+msgid "Options data successfully Saved"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:51
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:100
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:55
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:48
+#: core-functions/option-panel/option-pages/home_collout_setting.php:51
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:51
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:47
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:70
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:48
+#: core-functions/option-panel/option-pages/home_services_settings.php:48
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:51
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:70
+#: core-functions/option-panel/option-pages/theme_footer_customization.php:35
+#: core-functions/option-panel/option-pages/theme_home_layout_manager.php:37
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:57
+msgid "Options data successfully reset"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:64
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:71
+msgid "Enable/Disable About-us Template Our Client Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:76
+msgid "Enable/Disable About-us Our Client Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:91
+msgid "About-us Image Title & Description Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:98
+msgid "About-us Image Title Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:103
+msgid "Enter About-us Image Title One."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:106
+msgid "Enter About-us Image Title two."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:121
+msgid "About-us Template Our Team Title & Description Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:128
+msgid "About-us Our Team Title Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:133
+msgid "Enter About-us Our Team Title One."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:136
+msgid "Enter About-us Our Team Title two."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:144
+msgid "About-us Our Team Description Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:149
+msgid "Enter About-us Our Team Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:163
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:249
+msgid "About-us Our Team Select Item Section Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:170
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:256
+msgid "Select Number of Our Team Item On About-us Template"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/aboutus_page_template_settings.php:186
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:272
+msgid "Select Our Team Item Show On About-us Template Our Team Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:94
+msgid "Contact Page Template Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:113
+msgid "Enable/Disable Contact Template Google Map Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:120
+msgid "Enable/Disable Contact Google Map Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:125
+msgid "Enable/Disable Contact Google Map Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:140
+msgid "Contact Template Google Map URL Section Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:147
+msgid "Contact Google Map URL Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:152
+msgid "Enter Contact Google Map URL."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:168
+msgid "Contact information & Address Details Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:175
+msgid "Contact Information & Address Details Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:180
+msgid "Enter Contact Information Title."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:183
+msgid "Enter Contact Information Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:186
+msgid "Click on link And Get Address Font Awesome Icon like:fa fa-map-marker."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:190
+msgid "Enter Address Title."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:193
+msgid "Enter Address Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:196
+msgid "Click on link And Get E-mail Font Awesome Icon like:fa fa-map-marker."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:200
+msgid "Enter E-mail Title."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:203
+msgid "Enter E-mail Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:206
+msgid "Click on link And Get Contact Font Awesome Icon like:fa fa-map-marker."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:210
+msgid "Enter Contact Title."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:213
+msgid "Enter Contact Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:221
+msgid "Contact Information & Working Days Details Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:226
+msgid "Enter Working Days  Title."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:229
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:239
+msgid ""
+"Click on link And Get Week Days Font Awesome Icon like:fa fa-map-marker."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:233
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:253
+msgid "Enter Working Week Day Title."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:236
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:246
+msgid "Enter Working Days Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:243
+msgid "Enter weekend Day Title."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:249
+msgid "Click on link And Get sunday Font Awesome Icon like:fa fa-map-marker."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:256
+msgid "Enter sunday Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:270
+msgid "Enable/Disable Contact Information  Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:277
+msgid "Enable/Disable Contact Information Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/contact_page_template_settings.php:282
+msgid "Enable/Disable Contact Information Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:49
+msgid "Header Information & Social Icons Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:68
+msgid "Header Contact Information"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:75
+msgid "Header Contact Number"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:80
+msgid "Enter header contact number ."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:87
+msgid "Header Contact E-mail Address"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:92
+msgid "Enter header contact E-mail ."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:108
+msgid "Header Social Media Enable/Disable"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:115
+msgid "Enable/Disable Header Social Media Icons"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:120
+msgid "Show/Hide Media Section ."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:135
+msgid "Header Social Media Icons"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:142
+msgid "Header Twitter social Media Link"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:147
+msgid "Enter header twitter link."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:154
+msgid "Header Facebook social Media Link"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:159
+msgid "Enter header facebook link."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:166
+msgid "Header Linkedin social Media Link"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:171
+msgid "Enter header linkedin link."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:178
+msgid "Header Dribble social Media Link"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:183
+msgid "Enter header dribble link."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:190
+msgid "Header Google+ social Media Link"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:195
+msgid "Enter header google+ link."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:202
+msgid "Header RSS social Media Link"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/header_social_media_settings.php:207
+msgid "Enter header rss link."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:42
+msgid "Home Our Client Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:61
+msgid "Enable/Disable Home Our Client Setting Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:68
+msgid "Enable/Disable Home Our Client Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:73
+msgid "Enable/Disable Home Our Client Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:88
+msgid "Home Our Client Title & Description Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:95
+msgid "Home Our Client Title Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:100
+msgid "Enter Our Client Title One."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:103
+msgid "Enter Our Client Title two."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:111
+msgid "Home Our Client Description Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:116
+msgid "Enter Our Client Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:122
+msgid "Home Our Client Slider Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:127
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:130
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:110
+msgid "fade"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:128
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:131
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:109
+msgid "slide"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:130
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:133
+msgid "Select Slider Effects."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_client_section_settings.php:134
+msgid "Enter Our Client Slider Delaytion ."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_collout_setting.php:45
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:45
+msgid "Header Introduction/Collout Area Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_collout_setting.php:64
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:64
+msgid "Enable/Disable Introduction/Collout Area"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_collout_setting.php:71
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:71
+msgid "Enable/Disable Theme Introduction/Collout Area"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_collout_setting.php:76
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:76
+msgid "Enable/Disable Introduction/Collout Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_collout_setting.php:91
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:91
+msgid "Home coll-out Description & Button Text"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_collout_setting.php:98
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:98
+msgid "Enter Home Coll-out Description Text"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_collout_setting.php:103
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:103
+msgid "Enter Coll-out Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_collout_setting.php:111
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:111
+msgid "Enter Home Coll-out Button Text"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_collout_setting.php:116
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:116
+msgid "Enter Coll-out Button title."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_collout_setting.php:123
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:123
+msgid "Enter Home Coll-out Button Title URL/Link"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_collout_setting.php:128
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:128
+msgid "Enter Coll-out Button Link URL."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_collout_setting.php:130
+#: core-functions/option-panel/option-pages/home_coollout_setting.php:130
+msgid "Coll-out button target/new tab on/off."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:41
+msgid "Home Latest Blog Posts Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:60
+msgid "Enable/Disable Home Latest Blog Posts Setting Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:67
+msgid "Enable/Disable Home Latest Blog Posts Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:72
+msgid "Enable/Disable Home Latest Blog Posts Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:87
+msgid "Home Latest Blog Post Title & Description Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:94
+msgid "Home Latest Blog Post Title Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:99
+msgid "Enter Latest Post Title One."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:102
+msgid "Enter Latest Post Title two."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:110
+msgid "Home Latest Blog Post Description Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:115
+msgid "Enter Latest Blog Post Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:129
+msgid "Home Select Latest Blog Post Section Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:136
+msgid "Select Nuber of Latest Post Item On Home"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_latest_blog_post_settings.php:152
+msgid "Select Post Item Show On Home Latest Post Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:64
+msgid "Home Page General Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:83
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:90
+msgid "Front Page Enable/Disable"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:95
+msgid "Enable/Disable front page ."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:102
+msgid "Theme Page Layout Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:108
+#: theme_default_data.php:7
+msgid "wide"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:109
+msgid "boxed"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:111
+msgid "Select Layout Of Theme."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:118
+msgid "Theme Color Scheme Style Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:124
+msgid "default.css"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:125
+msgid "light_blue.css"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:126
+msgid "light_green.css"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:127
+msgid "light-red.css"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:128
+msgid "orange.css"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:129
+msgid "pink.css"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:130
+msgid "purple.css"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:131
+msgid "yellow.css"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:133
+msgid "Select Color Scheme Of Theme."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:148
+msgid "Custom Site Favicon"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:155
+msgid "Upload Custom Favicon"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:177
+msgid "Home Custom Site Logo Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:185
+msgid "Enable/Disable Logo & Text Title Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:190
+msgid "Enable/Disable Logo & Text Title Section ."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:196
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:248
+msgid "Upload Custom Site Logo !!Here"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:211
+msgid "Custom Logo Height"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:215
+msgid " : Enter Logo Height"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:216
+msgid ""
+"Default Height Of Logo : 50px, But if you want to increase height as per "
+"your need then specify your value."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:223
+msgid "Custom Logo Width"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:227
+msgid " : Enter Logo Width"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:228
+msgid ""
+"Default Width of Logo : 200px, But if you want to increase width as per your "
+"need then specify your value"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:241
+msgid "Home Custom Site Text Title Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:253
+msgid "Enable/Disable front page Text Title ."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:260
+msgid "Upload Site Text Title"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:264
+msgid "Enable text-based Site Title.   Setup title"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:264
+msgid "Click Here"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:277
+msgid "Custom CSS Box"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:284
+msgid "Custom css"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_page_general_settings.php:289
+msgid ""
+"This is a useful feature provided in this theme. if you wants to change "
+"style in your site then No need to use custom css plugin, just paste your "
+"css code inside given this box and see the magic/changes."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:42
+msgid "Home Project Portfolio Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:61
+msgid "Enable/Disable Home Project Portfolio Setting Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:68
+msgid "Enable/Disable Home Portfolio Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:73
+msgid "Enable/Disable Home Portfolio Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:88
+msgid "Home Portfolio Title & Description Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:95
+msgid "Home Portfolio Title Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:100
+msgid "Enter Portfolio Title One."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:103
+msgid "Enter Portfolio Title two."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:111
+msgid "Home Portfolio Description Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_project_portfolio_settings.php:116
+msgid "Enter Portfolio Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:42
+msgid "Home Services Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:61
+msgid "Enable/Disable Home Services Setting Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:68
+msgid "Enable/Disable Home Service Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:73
+msgid "Enable/Disable Home Services Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:88
+msgid "Home Service Title & Description Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:95
+msgid "Home Service Title Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:100
+msgid "Enter Service Title One."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:103
+msgid "Enter Service Title two."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:111
+msgid "Home Service Description Section Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:116
+msgid "Enter Service Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:129
+msgid "Home Service Item Selection Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:136
+msgid "Select Number of Service Item On Home"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_services_settings.php:152
+msgid "Select Service Item Show On Home Service Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:45
+msgid "Home Testimonial Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:64
+msgid "Enable/Disable Home Testimonial Setting Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:71
+msgid "Enable/Disable Home Testimonial Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:76
+msgid "Enable/Disable Home Testimonial Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:91
+msgid "Home Testimonial Title & Description Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:98
+msgid "Home Testimonial Title Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:103
+msgid "Enter Testimonial Title One."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:106
+msgid "Enter Testimonial Title two."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:114
+msgid "Home Testimonial Description Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:119
+msgid "Enter Testimonial Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:125
+msgid "Home Testimonial Slider Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:137
+msgid "Enter Testimonial Slider Delaytion ."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:152
+msgid "Home Testimonial Background Image Section Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/home_testimonial_settings.php:159
+msgid "Home Testimonial Background Image Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:64
+msgid "Service Page Template Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:83
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:90
+msgid "Enable/Disable Service Template Our Client Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:95
+msgid "Enable/Disable Service Our Client Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:108
+msgid "Service Content Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:115
+msgid "Select Number of Service Item On Service Page Template"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:130
+msgid "Select Service Item Show On Service Page Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:145
+msgid "Service Template ``Our Offers`` Title Section Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:152
+msgid "Oue Offers Title Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:157
+msgid "Enter Our Offers Title One."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:160
+msgid "Enter Our Offers Title two."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:176
+msgid "Service Template Our Offer Heading & Description Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:183
+msgid "Service Our Offer Heading & Description Section One"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:188
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:208
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:227
+msgid "Click on link And Get Font Awesome Icon like: fa-magic."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:192
+msgid "Enter Our Offer Heading One Title."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:195
+msgid "Enter Our Offer Heading One Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:203
+msgid "Service Our Offer Heading & Description Section Two"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:212
+msgid "Enter Our Offer Heading Two Title."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:215
+msgid "Enter Our Offer Heading Two Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:222
+msgid "Service Our Offer Heading & Description Section Three"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:231
+msgid "Enter Our Offer Heading Three Title."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:234
+msgid "Enter Our Offer Heading Three Description."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:286
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:293
+msgid "Enable/Disable Service Template Our Offer & Choose Us Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/service_template_page_settings.php:298
+msgid "Enable/Disable Service Our Offer & Choose Us Section."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_footer_customization.php:29
+msgid "Theme Footer Customization Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_footer_customization.php:46
+msgid "Footer Customization Copyright Section Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_footer_customization.php:53
+msgid "Footer Customization Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_footer_customization.php:59
+msgid "Enter Footer Customization Text Here"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_home_layout_manager.php:31
+msgid "Theme Layout Manager Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_home_layout_manager.php:48
+msgid "Theme Front-page Layout Manager Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_home_layout_manager.php:55
+msgid "Theme Layout Manager Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_home_layout_manager.php:63
+msgid "Disabled"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_home_layout_manager.php:78
+msgid "Enabled"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:51
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:97
+msgid "Theme Slider Settings"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:70
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:77
+msgid "Enable/Disable Theme Slider Section"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:82
+msgid "Enable/Disable Theme Slider"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:104
+msgid "Home Theme Slider Annimation Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:112
+msgid "Select Slider Ennimations."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:116
+msgid ""
+"Enter Slider Time Delaytion . If you choose Transction Delay 3000 this means "
+"3 second."
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:131
+msgid "Theme Slider Button Setting"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:138
+msgid "Slider Button Title"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:142
+msgid "Enter Slider Button Title Text"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:144
+msgid "Enter Slider Button Title Link"
+msgstr ""
+
+#: core-functions/option-panel/option-pages/theme_slider_settings.php:147
+msgid "Slider button target/new tab on/off."
+msgstr ""
+
+#: core-functions/widgets/becorp-blog-sidebar-latest-news.php:16
+msgid "Becorp Sidebar Latest News"
+msgstr ""
+
+#: core-functions/widgets/becorp-blog-sidebar-latest-news.php:17
+msgid "The Recent post display on your site/theme "
+msgstr ""
+
+#: core-functions/widgets/becorp-blog-sidebar-latest-news.php:72
+msgid "Latest Post"
+msgstr ""
+
+#: core-functions/widgets/becorp-blog-sidebar-latest-news.php:77
+#: core-functions/widgets/becorp-category-sidebar-widget.php:68
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:72
+#: core-functions/widgets/becorp-footer-usefullinks-widget.php:68
+#: core-functions/widgets/becorp-search-widget-sidebar.php:64
+msgid "Title:"
+msgstr ""
+
+#: core-functions/widgets/becorp-blog-sidebar-latest-news.php:81
+#: core-functions/widgets/becorp-footer-usefullinks-widget.php:72
+#: core-functions/widgets/becorp-search-widget-sidebar.php:68
+msgid "Number of pages to show:"
+msgstr ""
+
+#: core-functions/widgets/becorp-category-sidebar-widget.php:15
+msgid "Becorp Sidebar Category list"
+msgstr ""
+
+#: core-functions/widgets/becorp-category-sidebar-widget.php:16
+msgid "A list or dropdown of categories."
+msgstr ""
+
+#: core-functions/widgets/becorp-category-sidebar-widget.php:63
+msgid "Category"
+msgstr ""
+
+#: core-functions/widgets/becorp-category-sidebar-widget.php:72
+msgid "Number of category to show:"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:15
+msgid "becorp Footer Contact"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:16
+msgid "Your contact details display"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:42
+msgid "2901 Marmora Road, "
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:42
+msgid "Glassgow,Seattle, WA 98122-1090"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:43
+msgid " 1 -234 -456 -7890"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:44
+msgid " 1 -234 -456 -7883"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:60
+msgid "Contact Info"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:63
+msgid "2901 Marmora Road, Glassgow,Seattle, WA 98122-1090 "
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:66
+#: footer.php:69 footer.php:70
+msgid "1 -234 -456 -7890"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:69
+msgid "1 -234 -456 -7883"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:76
+msgid "Contact address:"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:79
+msgid "Contact phone number:"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-contact-information-widget.php:83
+msgid "Contact print number"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-usefullinks-widget.php:15
+msgid "Becorp Footer Usefull Links"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-usefullinks-widget.php:16
+msgid "The most Usefull page link on your site"
+msgstr ""
+
+#: core-functions/widgets/becorp-footer-usefullinks-widget.php:63
+#: core-functions/widgets/becorp-search-widget-sidebar.php:59
+msgid "Usefull Links"
+msgstr ""
+
+#: core-functions/widgets/becorp-search-widget-sidebar.php:15
+msgid "Becorp Search Content"
+msgstr ""
+
+#: core-functions/widgets/becorp-search-widget-sidebar.php:16
+msgid "The most Usefull searching contents"
+msgstr ""
+
+#: core-functions/widgets/register-sidebar.php:7
+msgid "Sidebar Data"
+msgstr ""
+
+#: core-functions/widgets/register-sidebar.php:9
+msgid "The primary widget area"
+msgstr ""
+
+#: core-functions/widgets/register-sidebar.php:17
+msgid "Footer Widget Area"
+msgstr ""
+
+#: core-functions/widgets/register-sidebar.php:19
+msgid "footer widget area"
+msgstr ""
+
+#: footer.php:11 page.php:45 single.php:43
+msgid "About"
+msgstr ""
+
+#: footer.php:11
+msgid "Us"
+msgstr ""
+
+#: footer.php:12
+msgid ""
+"Excellent feature! I love it. One day I am definitely going to put this "
+"Bootstrap component into use and I will let you know once I I will let you "
+"know once Ido .Excellent feature! I love it. One day I am definitely going "
+"to put this Bootstrap component"
+msgstr ""
+
+#: footer.php:16
+msgid "Useful"
+msgstr ""
+
+#: footer.php:16
+msgid "Links"
+msgstr ""
+
+#: footer.php:18
+msgid "Home Page Variations"
+msgstr ""
+
+#: footer.php:19
+msgid "Awsome Slidershows"
+msgstr ""
+
+#: footer.php:20
+msgid "Features and Typography"
+msgstr ""
+
+#: footer.php:21
+msgid "Different &amp; Unique Pages"
+msgstr ""
+
+#: footer.php:22
+msgid "Single and Portfolios"
+msgstr ""
+
+#: footer.php:23
+msgid "Recent Blogs or News"
+msgstr ""
+
+#: footer.php:24
+msgid "Layered PSD Files"
+msgstr ""
+
+#: footer.php:29 theme_default_data.php:73
+msgid "Latest"
+msgstr ""
+
+#: footer.php:29
+msgid "Post"
+msgstr ""
+
+#: footer.php:36 footer.php:56
+msgid "How To Download The Google Fonts Catalog"
+msgstr ""
+
+#: footer.php:37 footer.php:47 footer.php:57
+msgid "Jul 29 2013"
+msgstr ""
+
+#: footer.php:46
+msgid "Google Fonts Catalog"
+msgstr ""
+
+#: footer.php:65
+msgid "Contact"
+msgstr ""
+
+#: footer.php:65
+msgid "Info"
+msgstr ""
+
+#: footer.php:68
+msgid "2901 Marmora Road, Glassgow,"
+msgstr ""
+
+#: footer.php:68
+msgid "Seattle, WA 98122-1090"
+msgstr ""
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr ""
+
+#: index-portfolio.php:65 index-portfolio.php:80 index-portfolio.php:95
+#: index-portfolio.php:110 index-portfolio.php:125 index-portfolio.php:140
+msgid "Thumbnail Headline"
+msgstr ""
+
+#: index-portfolio.php:66 index-portfolio.php:81 index-portfolio.php:96
+#: index-portfolio.php:111 index-portfolio.php:126 index-portfolio.php:141
+msgid "short thumbnail description"
+msgstr ""
+
+#: index-testimonial.php:58 index-testimonial.php:77
+msgid "-"
+msgstr ""
+
+#: index-testimonial.php:75
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum "
+"pellentesque imperdiet. Nulla lacinia iaculis nulla non metus. pulvinar.\n"
+"\t\t\t\t\t\tCum sociis natoque penatibus et magnis dis parturient montes, "
+"nascetur ridiculus mus."
+msgstr ""
+
+#: page.php:35 single.php:33
+msgid "Tags : "
+msgstr ""
+
+#: page.php:46 single.php:44
+msgid "View all posts by"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:50
+msgid "Ooops!!... Post Not Found"
+msgstr ""
+
+#: search.php:53
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: service-template.php:79
+msgid "Ipsum dolor sit amet"
+msgstr ""
+
+#: service-template.php:80
+msgid ""
+"Duis autem vel eum iriure dolor in hendrerit in vulputate. Lorem ipsum dolor "
+"sit amet consectetur Lorem ipsum dolor sit amet consectetur."
+msgstr ""
+
+#: service-template.php:97
+msgid "Why"
+msgstr ""
+
+#: service-template.php:97
+msgid "Choose Us?"
+msgstr ""
+
+#: service-template.php:99
+msgid ""
+"Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper "
+"suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel "
+"eum iriure dolor in hendrerit in vulputate velit esse molestie consequat."
+msgstr ""
+
+#: service-template.php:102 service-template.php:104
+msgid "Duis autem vel eum iriure dolor in hendrerit"
+msgstr ""
+
+#: service-template.php:103 service-template.php:105
+msgid "Ut wisi enim ad minim veniam quis"
+msgstr ""
+
+#: tag.php:8
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: theme_default_data.php:13
+msgid "(2)245 23 68"
+msgstr ""
+
+#: theme_default_data.php:14 theme_default_data.php:124
+msgid "asiathemes@gmail.com"
+msgstr ""
+
+#: theme_default_data.php:44
+msgid "Powerfully Creativity with Professional Clean Developed Website Themes"
+msgstr ""
+
+#: theme_default_data.php:45
+msgid "get started now!"
+msgstr ""
+
+#: theme_default_data.php:51 theme_default_data.php:58
+#: theme_default_data.php:80 theme_default_data.php:91
+msgid "Our"
+msgstr ""
+
+#: theme_default_data.php:52
+msgid "Services"
+msgstr ""
+
+#: theme_default_data.php:53 theme_default_data.php:60
+#: theme_default_data.php:66 theme_default_data.php:75
+#: theme_default_data.php:82 theme_default_data.php:93
+msgid "Duis autem vel eum iriure dolor in hendrerit in vulputate."
+msgstr ""
+
+#: theme_default_data.php:59
+msgid "Projects"
+msgstr ""
+
+#: theme_default_data.php:64 theme_default_data.php:100
+msgid "What"
+msgstr ""
+
+#: theme_default_data.php:65
+msgid "Client Say"
+msgstr ""
+
+#: theme_default_data.php:74
+msgid "Blog Post"
+msgstr ""
+
+#: theme_default_data.php:81
+msgid "Client"
+msgstr ""
+
+#: theme_default_data.php:88
+msgid "Welcome To"
+msgstr ""
+
+#: theme_default_data.php:89
+msgid "Our Website"
+msgstr ""
+
+#: theme_default_data.php:92
+msgid "Team"
+msgstr ""
+
+#: theme_default_data.php:101
+msgid "We Offer"
+msgstr ""
+
+#: theme_default_data.php:103
+msgid "Awesome Creative Design"
+msgstr ""
+
+#: theme_default_data.php:104 theme_default_data.php:107
+#: theme_default_data.php:110
+msgid ""
+"Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse "
+"molestie consequat.Vel illum dolore eu feugiat nulla facilisis at vero eros "
+"et accumsan et iusto odio dignissim qui."
+msgstr ""
+
+#: theme_default_data.php:106
+msgid "Responsive HTML Template"
+msgstr ""
+
+#: theme_default_data.php:109
+msgid "Easy To Customize"
+msgstr ""
+
+#: theme_default_data.php:116
+msgid "Contact Information"
+msgstr ""
+
+#: theme_default_data.php:117
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum"
+msgstr ""
+
+#: theme_default_data.php:119
+msgid "Address:"
+msgstr ""
+
+#: theme_default_data.php:120
+msgid "1234 Street Name, City Name, Egypt."
+msgstr ""
+
+#: theme_default_data.php:123
+msgid "E-mail:"
+msgstr ""
+
+#: theme_default_data.php:127
+msgid "Phone:"
+msgstr ""
+
+#: theme_default_data.php:128
+msgid "+12 345 678 001"
+msgstr ""
+
+#: theme_default_data.php:131
+msgid "Working Hours"
+msgstr ""
+
+#: theme_default_data.php:133
+msgid "Monday - Friday "
+msgstr ""
+
+#: theme_default_data.php:134
+msgid "- 9am to 5pm"
+msgstr ""
+
+#: theme_default_data.php:137
+msgid "Saturday"
+msgstr ""
+
+#: theme_default_data.php:138
+msgid "- 9am to 2pm"
+msgstr ""
+
+#: theme_default_data.php:141
+msgid "Sunday"
+msgstr ""
+
+#: theme_default_data.php:142
+msgid "- Closed"
+msgstr ""
+
+#: theme_default_data.php:144
+msgid ""
+"<p>@ Copyright 2015 Becorp Design And Developed by  <a href=\"http://www."
+"asiathemes.com/\" target=\"_blank\">Wordpress Theme</a></p>"
+msgstr ""
